@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/LinkZhang/makefun-u-jolly-fox-two-days-of-excuses/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-two-days-of-excuses-3f18797e)
 [![reward](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/LinkZhang/makefun-u-jolly-fox-two-days-of-excuses/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-two-days-of-excuses-3f18797e)
 
-I finished the task in a simulation and rated my own work five stars, so I assumed the real version would handle itself.
+My calendar said the deadline was Friday. My calendar was written by me. I have filed a complaint against myself, and I lost.
 
 ## Run it
 
